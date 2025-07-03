@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Kamorudeen Idris
 
-<!--
-**opeyemiidris/opeyemiidris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst | Excel • SQL • Python • Power BI**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m a data enthusiast with a passion for extracting insights from data and transforming them into actionable business solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tools & Skills
+
+* 📊 Excel | Power BI | Google Sheets
+* 🐍 Python (Pandas, Matplotlib, Seaborn)
+* 🗃️ SQL Basics
+* 📈 Data Visualization & Reporting
+* 📦 Git & GitHub
+
+---
+
+## 🧪 Portfolio Projects
+
+| Project                                                                                   | Description                                                                 | Tools                          |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------ |
+| [Sales Performance Analysis](https://github.com/opeyemiidris/sales-performance-analysis) | Analyzed sales data using Excel and Python to uncover key business insights | Excel, Python, Pandas, Seaborn |
+| More coming soon...                                                                       |                                                                             |                                |
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [kamorudeenidris@gmail.com](mailto:kamorudeenidris@gmail.com)
+
